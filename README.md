@@ -1,3 +1,3 @@
 # softank.github.io
 
-https://softank.github.io/index.html
+https://softank.github.io/
