@@ -1,4 +1,57 @@
 @charset "utf-8";
 body{
-    background-color: darkolivegreen;
+    background-color: olivedrab;
+
+}
+html{
+    font-size: 150%;
+}
+h1{
+    color: darkred;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-family: "遊ゴシック";    
+}
+p{
+    
+    font-family: monospace;
+    font-weight: lighter;
+    line-height: normal;
+    color: mediumslateblue;
+    background-color: midnightblue;
+    width: 50%;
+    height: 100%;
+}
+
+section{
+    font-size: large;
+    padding: auto;
+    border-color: tomato white green black;
+    border-style: dotted;
+    border-width: 5px;
+    margin-bottom: 5px;
+    
+}
+
+article{
+    font-size: large;
+    padding: 30px;
+    border-width: 5px 3px 5px 3px;
+    border-style: dashed;
+    border-color: orange;
+
+    }
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+    background-color: blanchedalmond;
+}
+
+
+ol{
+    list-style-type: hiragana-iroha;
+    background-color: chocolate;
+    list-style-position: inside;
 }
